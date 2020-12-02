@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/alandi31/alandi31.github.io
+	branch = master
